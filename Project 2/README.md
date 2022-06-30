@@ -12,4 +12,4 @@
 
 ## Используемые библиотеки
 
-Pandas, numpy, scipy, math, datetime, matplotlib, seaborn, 
+Pandas, numpy, scipy, math, datetime, matplotlib, seaborn 
