@@ -15,3 +15,5 @@
 | Проект №4 | "Рынок заведений общественного питания Москвы" | Pandas, numpy, scipy, math, datetime, matplotlib, seaborn |
 | :---------- | :---------- | :---------- |
 | Проект №5 | "Анализ А/А/В-теста" | Pandas, numpy, scipy, math, datetime, matplotlib, seaborn |
+| :---------- | :---------- | :---------- |
+| Проект №6 | "Анализ взаимодействия пользователей с карточками Яндекс.Дзен" | Tableau, PowerPoint, pandas, sqlalchemy |
